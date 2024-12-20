@@ -1,3 +1,3 @@
 # BytePusher
 
-My experiments with BytePusher. See in [action](https://true-grue.github.io/BytePusher/snow.html).
+My experiments with [BytePusher](https://esolangs.org/wiki/BytePusher). See in [action](https://true-grue.github.io/BytePusher/snow.html).

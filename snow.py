@@ -54,8 +54,6 @@ def code(a):
 
     seed(42)
 
-    a.org(0)
-
     a.i16(0)
 
     a.label('reset')

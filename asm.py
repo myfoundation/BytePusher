@@ -93,6 +93,7 @@ def set_2d(a, table):
 def assemble(prog):
     a = Asm()
     prog(a)
+    a.org(0)
     prog(a)
     for u in a.used:
         assert u in a.labels, u
